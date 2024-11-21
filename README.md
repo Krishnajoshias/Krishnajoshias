@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Krishnajoshias
 - 👀 I’m interested in PROBLEM SOLVING
 - 🌱 I’m currently learning DSA AND DEVELOPMENT
-- 💞️ I’m looking to collaborate on PROJECTS ON DEVELOPMENT
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on PROJECTS ON DEVELOPMEN
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
 
